@@ -1,0 +1,6 @@
+Creating an object = +[name_of_object]
+coloring object = &[name_of_object|color]
+moving an object = #[name_of_object|x|y]
+testing for a key = ?[keyCode|code]
+creating variables = *[name|value]
+deleting an object = -[name_of_object]

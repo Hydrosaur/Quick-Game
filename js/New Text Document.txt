@@ -1,0 +1,5 @@
+init(20);
+api.createObject("hoi");
+setTimeout(function(){api.moveObject("hoi", 2,2);}, 1000)
+setTimeout(function(){api.moveObject("hoi", 4,4);}, 2000)
+setTimeout(function(){api.deleteObject("hoi");}, 3000)
